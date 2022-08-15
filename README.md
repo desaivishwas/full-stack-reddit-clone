@@ -14,6 +14,3 @@ Deployed using EC2 instance
 - Home page feed (front page)
 - Subreddit specific feed
 - Create subreddits
-- Light and dark mode
-- ... and more to come!
-
