@@ -1,4 +1,4 @@
-# Cloneddit
+# Parcel (full stack reddit clone aka Cloneddit)
 
 Full stack reddit clone built with Java, Spring Boot, React, REST, AWS EC2.
 
